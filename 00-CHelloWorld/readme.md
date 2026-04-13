@@ -12,8 +12,8 @@ cd SySL
 - **Acceso a la carpeta**:
 cd 00-CHelloWorld
 - **Compilación del archivo fuente**:
-gcc hello.c -o hello -std=c23  
-compilador - nombre archivo fuente - nombre archivo ejecutable - versión del lenguaje
+gcc hello.c -o hello  
+compilador - nombre archivo fuente - nombre archivo ejecutable
 - **Ejecución del archivo ejecutable**:
 .\hello
 - **Redirección a output.txt**:

@@ -18,3 +18,4 @@ compilador - nombre archivo fuente - nombre archivo ejecutable - versión del le
 .\hello
 - **Redirección a output.txt**:
 ./hello > output.txt
+- **Para ver la versión del compilador:** gcc --version

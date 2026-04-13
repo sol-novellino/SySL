@@ -10,7 +10,7 @@ TP0: Configuración del entorno y "Hello, World!" en C.
 git clone https://github.com/sol-novellino/SySL.git  
 cd SySL
 - **Acceso a la carpeta**:
-cd 00-CHelloWordl
+cd 00-CHelloWorld
 - **Compilación del archivo fuente**:
 gcc hello.c -o hello -std=c23  
 compilador - nombre archivo fuente - nombre archivo ejecutable - versión del lenguaje

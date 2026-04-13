@@ -17,5 +17,5 @@ compilador - nombre archivo fuente - nombre archivo ejecutable
 - **Ejecución del archivo ejecutable**:
 .\hello
 - **Redirección a output.txt**:
-./hello > output.txt
+./hello.exe > output.txt
 - **Para ver la versión del compilador:** gcc --version

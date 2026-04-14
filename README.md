@@ -4,5 +4,5 @@ Repositorio personal para la materia **Sintaxis y Semántica de los Lenguajes**.
 
 - **Nombre:** Sol Novellino
 - **Legajo:** 234.069-0
-- **Comisión:** 2002
+- **Comisión:** K2002
 - **Mail:** snovellinomanicler@frba.utn.edu.ar

@@ -18,4 +18,8 @@ compilador - nombre archivo fuente - nombre archivo ejecutable
 .\hello
 - **Redirección a output.txt**:
 ./hello.exe > output.txt
+- **Para subir el archivo output.txt al GitHub**:
+git add output.txt
+git commit -m "TP0: Archivo de salida listo"
+git push origin main  
 - **Para ver la versión del compilador:** gcc --version
